@@ -52,11 +52,17 @@ Menu:
 7. Quit
 
 Select option: 1
+
 Enter name: Nick Lord
+
 Enter 10-digit phone number: 1235555555
+
 Enter email address: nicklord@example.com
+
 Enter address: 1234 Five St
+
 Enter any notes: Wrote this code
+
 Contact added successfully!
 
 ###
